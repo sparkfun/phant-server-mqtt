@@ -2,7 +2,7 @@
   "name": "phant-server-mqtt",
   "version": "0.1.0",
   "main": "lib/phant-server-mqtt.js",
-  "description": "server shared by phant-input-mqtt & phant-output-mqtt",
+  "description": "mqtt broker shared by phant-input-mqtt & phant-output-mqtt",
   "homepage": "https://github.com/sparkfun/phant-server-mqtt",
   "bugs": "https://github.com/sparkfun/phant-server-mqtt/issues",
   "author": {
@@ -35,7 +35,6 @@
     "grunt-jsbeautifier": "^0.2.7"
   },
   "dependencies": {
-    "mosca": "^0.23.2",
-    "redis": "^0.11.0"
+    "mosca": "^0.23.2"
   }
 }
