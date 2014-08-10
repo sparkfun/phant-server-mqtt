@@ -1,6 +1,6 @@
 {
   "name": "phant-server-mqtt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/phant-server-mqtt.js",
   "description": "mqtt broker shared by phant-input-mqtt & phant-output-mqtt",
   "homepage": "https://github.com/sparkfun/phant-server-mqtt",
