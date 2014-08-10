@@ -35,6 +35,6 @@
     "grunt-jsbeautifier": "^0.2.7"
   },
   "dependencies": {
-    "mosca": "^0.23.2"
+    "mosca": "^0.24.0"
   }
 }
